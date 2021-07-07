@@ -1,9 +1,6 @@
-# pawnMePlease
-<!-- badges: start -->
-  [![R-CMD-check](https://github.com/csgillespie/pawnmeplease/workflows/R-CMD-check/badge.svg)](https://github.com/csgillespie/pawnmeplease/actions)
-  <!-- badges: end -->
-  
-A dummy package I'm going to use in https://events.sonatype.com/elevate/agenda
+# ren
+
+A dummy package I'm going to use in https://events.sonatype.com/elevate/agenda and https://paris2021.rencontresr.fr/
 
 
 ## Installation
@@ -11,15 +8,5 @@ A dummy package I'm going to use in https://events.sonatype.com/elevate/agenda
 You can install the released version of pawnMePlease 
 
 ``` r
-remotes::install_github("csgillespie/pawnmeplease")
+remotes::install_github("csgillespie/ren")
 ```
-
-## Example
-
-This package is completely trustworthy
-
-``` r
-library(pawnMePlease)
-am_i_secure()
-```
-
